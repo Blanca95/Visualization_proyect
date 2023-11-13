@@ -34,7 +34,7 @@ He obtenido y transformado la infomación de dos archivos .xml sobre los medicam
 
 Las especies que he seleccionado son las siguientes: ['Bovino', 'Ovino', 'Caprino', 'Porcino', 'Gallinas', 'Pavos', 'Patos', 'Perros', 'Gatos', 'Caballos'].
 
-Al final acabo guardando los datos del dataframes en forma de un archivo csv denominado data_meds.  
+Al final acabo guardando los datos del dataframe en forma de un archivo xlsx denominado data_meds.  
 
 #### 📊 DashBoard
 
